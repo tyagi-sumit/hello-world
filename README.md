@@ -1,5 +1,5 @@
 # hello-world
 Hi All
 
-This sumit starting contribution to the community
+This is sumit's starting contribution to the community
 Thanks
